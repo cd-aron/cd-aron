@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello World I'm Aron!</h2>
+<h2 align="left">👋 Hello World! I'm Aron</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail.svg" height="30" alt="php logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="30" alt="php logo"  />
   <img width="12" />
 </div>
 
