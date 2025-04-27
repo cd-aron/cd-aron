@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aron
+👋 Hi, I’m Aron
 
 <!---
 cd-aron/cd-aron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
