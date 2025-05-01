@@ -19,5 +19,8 @@
  <h5>Connections</h5>
   <a href="https://www.linkedin.com/in/cd-aron/"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35"/> </a>
+
+  <a href="https://www.linkedin.com/in/cd-aron/"> 
+  <img src="https://i.pinimg.com/736x/26/c7/08/26c7089c48f9bb763e9cca3db502bd57.jpg" height="35"/> </a>
 </div>
 
