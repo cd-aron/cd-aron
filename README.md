@@ -1,5 +1,5 @@
-<h2 align="left">👋 Hello World! I'm Aron</h2>
-
+<h2 align="center">👋 Hello World! I'm Aron</h2>
+<h4 align="center">Just a Random Guy who does Javascript all day</h4>
 ###
 
 <div align="left">
