@@ -39,3 +39,7 @@
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="35" alt="Gmail" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-aron&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
