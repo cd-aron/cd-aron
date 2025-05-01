@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello World! I'm Aron</h2>
-<h4 align="center"> Just a Beginner who does JavaScript..</h4>
+<h4 align="center"> Just a Beginner who does JavaScript...</h4>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="300" alt="coder gif" />
