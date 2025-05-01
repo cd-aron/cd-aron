@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello World! I'm Aron</h2>
-<h4 align="center">Just a Beginner doing Javascipt</h4>
+<h4 align="center">Just a Beginner doing Javascript</h4>
 <img src="https://drive.google.com/file/d/14_8L4bp4COxU95YUBVusfWA4gIAOsS8N/view?usp=sharing"/>
 
 <div align="left">
