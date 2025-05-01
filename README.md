@@ -35,7 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="aronlamichaney@gmail.com">
+  <a href="mailto:aronlamichaney@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="35" alt="Gmail" />
   </a>
 </p>
