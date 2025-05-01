@@ -15,14 +15,9 @@
   <img width="12" />
 </div>
 
-###
 <div>
-  <a href="https://www.linkedin.com/in/cd-aron/"> <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35"/> </a>
+ <h5>Connections</h5>
+  <a href="https://www.linkedin.com/in/cd-aron/"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35"/> </a>
 </div>
 
-###
-
-
-
-
-###
