@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello World! I'm Aron</h2>
-<h4 align="center"> Just a Beginner who does JavaScript...🤵</h4>
+<h4 align="center"> Just a Beginner who does JavaScript🤵</h4>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="300" alt="coder gif" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 About Me
+ 💻 About Me
 
 <ul>
   <li>🎯 Focused on <b>Front-End Development</b></li>
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Skilled On
+ 🛠️ Skilled On
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Connect With Me
+ 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cd-aron/" target="_blank">
