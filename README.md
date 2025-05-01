@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-aron&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
