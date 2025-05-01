@@ -14,7 +14,7 @@
 
 ###
 <div>
-  <a href="https://www.linkedin.com/in/cd-aron/"> <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg height="30"/> </a>
+  <a href="https://www.linkedin.com/in/cd-aron/"> <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35"/> </a>
 </div>
 
 ###
