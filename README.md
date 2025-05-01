@@ -1,11 +1,10 @@
 <h2 align="center">👋 Hello World! I'm Aron</h2>
 <h4 align="center">👨🏼‍🦰Just a Beginner doing Javascript</h4>
-<div align="left">
+<div>
   <li> Focused on ** Front End Developement. ** 🧠 </li>
   <li> Currently working on ** Android & Web Applications.** 👨🏼‍💻 </li>
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" align="right"/>
 </div>
-<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" align="right"/>
-
 <div align="left">
   <h3>Skilled On</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
