@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
 </p>
 
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-aron&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
  🌐 Connect With Me
@@ -40,6 +44,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-aron&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
