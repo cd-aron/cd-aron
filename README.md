@@ -34,7 +34,7 @@
  🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/cd-aron/" target="_blank">
+  <a href="https://www.linkedin.com/in/aron-lamichaney-8963833ab/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
