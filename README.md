@@ -10,7 +10,7 @@
  💻 About Me
 
 <ul>
-  <li>🎯 Focused on <b>Front-End Development</b></li>
+  <li>🎯 Focused on <b>Full-Stack Development</b></li>
   <li>🚀 Currently working on <b>Android & Web Applications</b></li>
 </ul>
 
@@ -26,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original-wordmark.svg" height="30" alt="Spring" />
+
 
 </p>
 
