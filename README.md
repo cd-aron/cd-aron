@@ -29,10 +29,6 @@
 
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-aron&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
  🌐 Connect With Me
